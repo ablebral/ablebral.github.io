@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ablebral.github.io/sitemap.html.gz
+Sitemap: https://ablebral.github.io/app/sitemap.html.gz
+Sitemap: https://ablebral.github.io/assets/sitemap.html.gz
+Sitemap: https://ablebral.github.io/css/sitemap.html.gz
+Sitemap: https://ablebral.github.io/includes/sitemap.html.gz
+Sitemap: https://ablebral.github.io/item/sitemap.html.gz
+Sitemap: https://ablebral.github.io/src/sitemap.html.gz
